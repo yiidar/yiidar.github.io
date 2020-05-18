@@ -1,0 +1,51 @@
+body{
+    background-color: #FFFFFF;
+}
+
+h1{
+    font-family: 'NemoyMedium';
+    font-weight: normal;
+    font-style: normal; 
+    text-align: center;
+}
+
+p{
+    font-family: 'NemoyMedium';
+    font-weight: normal;
+    font-style: normal; 
+    text-align: center;
+}
+
+td{
+    height: 300px;
+    width: 100px;
+    border: 6px solid white;
+}
+
+table{
+    margin: auto;
+}
+
+#one{
+    background-color: #011627;
+}
+
+#two{
+    background-color: #ABAFB3;
+}
+
+#three{
+    background-color: #2EC4B6;
+}
+
+#four{
+    background-color: #E71D36;
+}
+
+#five{
+    background-color: #FF9F1C;
+}
+
+#six{
+    background-color: #EC5252;
+}
